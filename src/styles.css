@@ -1,0 +1,23 @@
+h1 {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+}
+
+button {
+	background-color: rgb(255, 255, 255);
+	border-color: black;
+	padding: 7px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin: auto;
+}
+
+.main {
+	background-color: rgb(235, 228, 228);
+	width: 800px;
+	height: auto;
+	position: absolute;
+    top: 30%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+    padding: 10px;
+}
